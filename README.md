@@ -1,4 +1,4 @@
 # recyclepete
-One-stop shop for analytics, machine learning, and robotics in the universe of recycling.
+One-stop shop for analytics and machine learning in the universe of recycling.
 
-This repo is an open source place to store all of the exisitng knowledge online and build a collective database that can improve recycling systems worldwide.
+This is an open source place to store all of the exisitng knowledge online and build a collective database that can improve recycling systems worldwide. The repository focuses on developing machine learning models and transparent analytics for measurement and tracking of material supply chain management.
